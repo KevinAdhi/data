@@ -1,0 +1,66 @@
+[
+  {
+    "partName": "Back",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  },
+  {
+    "partName": "Chest",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  },
+  {
+    "partName": "Shoulder",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  },
+  {
+    "partName": "Bicep",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  },
+  {
+    "partName": "Tricep",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  },
+  {
+    "partName": "ABS",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  },
+  {
+    "partName": "Leg",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  },
+  {
+    "partName": "Glutes",
+    "exercise": [
+      { "exerciseName": "Pull Up", "description": "test" },
+      { "exerciseName": "Dumbbell Row", "description": "test" },
+      { "exerciseName": "Reverse Fly", "description": "test" }
+    ]
+  }
+]
